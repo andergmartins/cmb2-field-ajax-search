@@ -1,0 +1,27 @@
+{
+    "name": "andergmartins/cmb2-field-ajax-search",
+    "description": "CMB2 Field for ajax search.",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Tsunoa",
+            "homepage": "https://tsunoa.com",
+            "role": "Developer"
+        }
+    ],
+    "keywords": ["metabox", "ajax", "search"],
+    "homepage": "https://github.com/andergmartins/cmb2-field-ajax-search",
+    "support": {
+        "issues": "https://github.com/andergmartins/cmb2-field-ajax-search/issues"
+    },
+    "require": {
+        "php": ">5.4",
+        "cmb2/cmb2": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "cmb2-field-ajax-search.php"
+        ]
+    }
+}
